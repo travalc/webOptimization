@@ -4,11 +4,13 @@ This project demonstrates learned website optimizations to improve performance a
 
 ### Getting started
   1. Insure that Google PageSpeed Insights Chrome extension is installed to view pagespeed scores.
+
 ####Part 1: Optimize PageSpeed Insights score for index.html
   1. Open index.html to view sample page to be tested.
   2. After page has loaded, click the PageSpeed Insights extension on the upper right hand corner of the window to open PageSpeed Insights.
   3. Once PageSpeed Insights has been opened, wait for the analysis to complete and view score for both desktop and mobile.
   4. Please insure that the scores for desktop and mobile are both over 90 for sufficient optimization.
+
 ####Part 2: Optimize Frames per Second in pizza.html
   1. Open views/pizza.html to navigate to pizza website that will be tested for frames per second optimization.
   2. Open Chrome DevTools (or your preferred browser's dev tools) and navigate to the "Timeline" panel.
